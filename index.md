@@ -1,3 +1,18 @@
+# David's First CS193 Homework
+
+Things I like and enjoy about the CS193 Class:
+- The friendliness of the instructors
+- The live examples of coding, such as the use of the terminal hands-on during class
+- The easy iClicker quizzes
+- The distance from the CS193 classroom to my next class :)
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -36,4 +51,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-whats yoppin
+
